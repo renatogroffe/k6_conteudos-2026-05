@@ -7,7 +7,26 @@ Acesse este material via QR Code:
 
 ## Exemplos de uso do k6
 
-xxxxxxx
+https://github.com/renatogroffe/k6-loadtests-azuredevops-api-html-dashboard
+
+https://github.com/renatogroffe/k6-loadtests-githubactions-githubpages-api-html-dashboard
+
+MCP (execução via docker run): https://github.com/renatogroffe/k6-mcps-tests-azdevops-pipelines
+
+https://github.com/renatogroffe/k6-mcps-tests-dnx-azdevops-pipelines
+
+https://github.com/renatogroffe/k6-mcps-tests-http-azdevops-pipelines
+
+https://github.com/renatogroffe/k6-kubernetes_operator-githubactions-loadtests_http
+
+https://github.com/renatogroffe/k6-kubernetes_operator-azuredevops-loadtests_http
+
+https://github.com/renatogroffe/k6-buildextensions-postgres-loadtests-azdevops-pipelines
+
+https://github.com/renatogroffe/k6-buildextensions-mysql-loadtests-azdevops-pipelines
+
+https://github.com/renatogroffe/k6-buildextensions-sqlserver-loadtests-azdevops-pipelines
+
 
 ## Executando pipelines de k6 no Azure DevOps via GitHub Codespaces + MCP
 
