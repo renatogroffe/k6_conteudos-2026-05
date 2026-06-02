@@ -1,15 +1,12 @@
 # k6_conteudos-2026-05
 Materiais de apoio abordando o uso do Grafana k6 com diferentes tecnologias.
 
-Acesse este material via QR Code:
-
-![QR Code](img/qrcode-01.png)
+Apresentação recente (30/05/2026) abordando o uso do Grafana k6: 
 
 ## Exemplos de uso do k6
 
-https://github.com/renatogroffe/k6-loadtests-azuredevops-api-html-dashboard
-
-https://github.com/renatogroffe/k6-loadtests-githubactions-githubpages-api-html-dashboard
+- Pipeline do Azure DevOps para automação de testes de carga de uma API REST (inclui geração de relatórios no formato HTML): https://github.com/renatogroffe/k6-loadtests-azuredevops-api-html-dashboard
+- Workflow do Azure DevOps para automação de testes de carga de uma API REST (inclui geração de relatórios no formato HTML): https://github.com/renatogroffe/k6-loadtests-githubactions-githubpages-api-html-dashboard
 
 MCP (execução via docker run): https://github.com/renatogroffe/k6-mcps-tests-azdevops-pipelines
 
