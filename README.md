@@ -1,7 +1,7 @@
 # k6_conteudos-2026-05
 Materiais de apoio abordando o uso do Grafana k6 com diferentes tecnologias.
 
-Apresentação recente (30/05/2026) abordando o uso do Grafana k6: 
+Apresentação recente (30/05/2026) abordando o uso do Grafana k6: **https://www.youtube.com/watch?v=YotQYkVlDc0**
 
 ## Exemplos de uso do k6
 
