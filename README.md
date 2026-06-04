@@ -10,11 +10,8 @@ Apresentação recente (30/05/2026) abordando o uso do Grafana k6: **https://www
 - Testando um MCP Server (execução via docker run) com k6 a partir de um pipeline do Azure DevOps e sem o uso de uma IA Generativa: https://github.com/renatogroffe/k6-mcps-tests-azdevops-pipelines
 - Testando um MCP Server (execução via dnx de um package NuGet) com k6 a partir de um pipeline do Azure DevOps e sem o uso de uma IA Generativa: https://github.com/renatogroffe/k6-mcps-tests-dnx-azdevops-pipelines
 - Testando um MCP Server (execução como uma Web App na nuvem) com k6 a partir de um pipeline do Azure DevOps e sem o uso de uma IA Generativa: https://github.com/renatogroffe/k6-mcps-tests-http-azdevops-pipelines
-
-https://github.com/renatogroffe/k6-kubernetes_operator-githubactions-loadtests_http
-
-https://github.com/renatogroffe/k6-kubernetes_operator-azuredevops-loadtests_http
-
+- Pipeline do Azure DevOps para execução automatizada de testes de carga do k6 a partir de um cluster Kubernetes: https://github.com/renatogroffe/k6-kubernetes_operator-githubactions-loadtests_http
+- Workflow do GitHub Actions para  execução automatizada de testes de carga do k6 a partir de um cluster Kubernetes: https://github.com/renatogroffe/k6-kubernetes_operator-azuredevops-loadtests_http
 - Testando uma base PostgreSQL com k6 a partir de um pipeline do Azure DevOps: https://github.com/renatogroffe/k6-buildextensions-postgres-loadtests-azdevops-pipelines
 - Testando uma base MySQL com k6 a partir de um pipeline do Azure DevOps: https://github.com/renatogroffe/k6-buildextensions-mysql-loadtests-azdevops-pipelines
 - Testando uma base SQL Server com k6 a partir de um pipeline do Azure DevOps: https://github.com/renatogroffe/k6-buildextensions-sqlserver-loadtests-azdevops-pipelines
