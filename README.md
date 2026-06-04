@@ -7,8 +7,10 @@ Apresentação recente (30/05/2026) abordando o uso do Grafana k6: **https://www
 
 - Pipeline do Azure DevOps para automação de testes de carga de uma API REST (inclui geração de relatórios no formato HTML): https://github.com/renatogroffe/k6-loadtests-azuredevops-api-html-dashboard
 - Workflow do Azure DevOps para automação de testes de carga de uma API REST (inclui geração de relatórios no formato HTML): https://github.com/renatogroffe/k6-loadtests-githubactions-githubpages-api-html-dashboard
+- Testando um MCP Server (execução via docker run) com k6 a partir de um pipeline do Azure DevOps e sem o uso de uma IA Generativa: https://github.com/renatogroffe/k6-mcps-tests-azdevops-pipelines
 
-MCP (execução via docker run): https://github.com/renatogroffe/k6-mcps-tests-azdevops-pipelines
+
+- Testando um MCP Server (execução via docker run) com k6 a partir de um pipeline do Azure DevOps e sem o uso de uma IA Generativa:
 
 https://github.com/renatogroffe/k6-mcps-tests-dnx-azdevops-pipelines
 
