@@ -15,11 +15,9 @@ https://github.com/renatogroffe/k6-kubernetes_operator-githubactions-loadtests_h
 
 https://github.com/renatogroffe/k6-kubernetes_operator-azuredevops-loadtests_http
 
-https://github.com/renatogroffe/k6-buildextensions-postgres-loadtests-azdevops-pipelines
-
-https://github.com/renatogroffe/k6-buildextensions-mysql-loadtests-azdevops-pipelines
-
-https://github.com/renatogroffe/k6-buildextensions-sqlserver-loadtests-azdevops-pipelines
+- Testando uma base PostgreSQL com k6 a partir de um pipeline do Azure DevOps: https://github.com/renatogroffe/k6-buildextensions-postgres-loadtests-azdevops-pipelines
+- Testando uma base MySQL com k6 a partir de um pipeline do Azure DevOps: https://github.com/renatogroffe/k6-buildextensions-mysql-loadtests-azdevops-pipelines
+- Testando uma base SQL Server com k6 a partir de um pipeline do Azure DevOps: https://github.com/renatogroffe/k6-buildextensions-sqlserver-loadtests-azdevops-pipelines
 
 
 ## Executando pipelines de k6 no Azure DevOps via GitHub Codespaces + MCP
